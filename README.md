@@ -1,2 +1,2 @@
 # hello-world
-for my personal education
+This repository is dedicated to my own experimentation with GitHub features.
